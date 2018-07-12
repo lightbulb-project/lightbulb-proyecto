@@ -27,6 +27,6 @@ class User extends Authenticatable
         'password', 'remember_token',
     ];
     protected $hola = [
-        'hola', 'hola 2'
+        'hola', 'hola 2', 'hola 3'
     ];
 }
